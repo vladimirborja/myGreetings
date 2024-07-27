@@ -1,4 +1,4 @@
 const greet = require('./greet');
 
-console.log(greet('Peter'));
-console.log(greet('Eddie'));
+console.log(greet('John'));
+console.log(greet('Jane'));
